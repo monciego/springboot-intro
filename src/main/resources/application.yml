@@ -1,0 +1,6 @@
+server:
+  port: 8080 # you can change the port here
+
+spring:
+  main:
+    web-application-type: servlet # default is servlet
